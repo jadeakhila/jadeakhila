@@ -1,5 +1,16 @@
-<h1 align="center">Hi 👋, I'm Akhila</h1>
-<h3 align="center">AI & ML Student | Python Developer | Java Developer</h3>
+<!-- Coding Banner Animation -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:9d4edd&height=200&section=header&text=Akhila%20Jade&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<h1 align="center">Hi 👋 I'm Akhila</h1>
+
+<!-- Typing Animation -->
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=600&lines=AI+%26+ML+Student;Python+Developer;Spring+Boot+Learner;Welcome+to+My+GitHub+Profile"/>
+</p>
 
 ---
 
@@ -59,7 +70,11 @@
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=jadeakhila&theme=tokyonight)
 
+## 👀 Profile Views
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=chandupriya8179&label=Profile%20views&color=blue&style=for-the-badge"/>
+</p>
 
 ---
 
