@@ -100,6 +100,13 @@ Cloud-based file upload and storage system for securely managing files.
 
 ---
 
+### 🏥 Dialysis Slot Allocation System
+Machine Learning based system that optimizes dialysis slot scheduling for hospitals.
+
+🔗https://github.com/jadeakhila/Dialysis-Slot-Allocation-ML.git
+
+---
+
 ### 🙂 Facial Expression Recognition
 AI model that identifies human emotions from facial images using CNN.
 
