@@ -88,14 +88,14 @@
 ### 🙂 Facial Expression Recognition
 AI model that identifies human emotions from facial images using CNN.
 
-🔗 https://github.com/akhilajade/facial-expression
+🔗 https://github.com/jadeakhila/facial-expression.git
 
 ---
 
 ### 🌫 Air Quality Analysis
 Data analysis and visualization project for monitoring air pollution levels.
 
-🔗 https://github.com/akhilajade/prana_project
+🔗 https://github.com/jadeakhila/prana_project.git
 
 ---
 
