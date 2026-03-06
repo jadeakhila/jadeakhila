@@ -15,7 +15,6 @@
 </a>
 </p>
 
----
 
 ### 👩‍💻 About Me
 
@@ -57,7 +56,6 @@
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
 
----
 
 ### 🚀 Projects
 
