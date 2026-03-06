@@ -102,4 +102,4 @@ Data analysis and visualization project for monitoring air pollution levels.
 ### 🤖 AI Resume Scanner
 NLP-based AI system that scans resumes and matches candidate skills with job descriptions.
 
-🔗 https://github.com/akhilajade/AI_Resume_Screener
+🔗 https://github.com/jadeakhila/AI_Resume_Screener.git
