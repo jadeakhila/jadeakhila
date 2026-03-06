@@ -78,14 +78,28 @@
 
 ---
 
-### 🚀 Projects
+## 🚀 My Projects
 
-- 💳 PhonePe Clone (Spring Boot + React)
-- 📚 Django Book Store
-- ☁️ Cloud File Upload App
-- 🧠 Dialysis Slot Optimization ML
-- 🎯 Object Detection System
-- 🙂 Facial Expression Recognition
-- 🌫 Air Quality Analysis
-- 🎓 Student Management System (Spring Boot + Postman API Testing)
-- 🤖 AI Resume Scanner
+---
+
+
+---
+
+### 🙂 Facial Expression Recognition
+AI model that identifies human emotions from facial images using CNN.
+
+🔗 https://github.com/akhilajade/facial-expression
+
+---
+
+### 🌫 Air Quality Analysis
+Data analysis and visualization project for monitoring air pollution levels.
+
+🔗 https://github.com/akhilajade/prana_project
+
+---
+
+### 🤖 AI Resume Scanner
+NLP-based AI system that scans resumes and matches candidate skills with job descriptions.
+
+🔗 https://github.com/akhilajade/AI_Resume_Screener
