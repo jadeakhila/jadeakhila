@@ -14,6 +14,7 @@
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
+---
 
 
 ### 👩‍💻 About Me
