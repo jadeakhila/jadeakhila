@@ -36,7 +36,7 @@
 
 - 🎓 BTech AIML Student
 - 🧠 Learning AI, ML, Python
-- 🚀 Building FinTech Projects
+- 🚀 Building FinTech & Deeptech Projects
 - 💻 Interested in Data Science
 - 📫 Email: akhilaakhila910@gmail.com
 
