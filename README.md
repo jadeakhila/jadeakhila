@@ -81,7 +81,17 @@
 ## 🚀 My Projects
 
 ---
+### 📚 Django Book Store Management
+Full-stack web application to manage books, users, orders, and payments using Django.
 
+🔗 https://github.com/jadeakhila/Django_Bookstore-management.git
+
+---
+
+### ☁️ Cloud File Storage
+Cloud-based file upload and storage system for securely managing files.
+
+🔗https://github.com/jadeakhila/cloud-file-storage.git
 
 ---
 
