@@ -22,7 +22,7 @@
 - 🎓 BTech AIML Student
 - 🧠 Learning AI, ML, Python
 - 🚀 Building FinTech Projects
-- 💻 Interested in Data Science
+- 💻 Interested in  AIML & Data Science
 - 📫 Email: akhilaakhila910@gmail.com
 
 ---
@@ -31,10 +31,21 @@
 
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python)
 ![Java](https://img.shields.io/badge/Java-red?logo=java)
+![C](https://img.shields.io/badge/C-blue?logo=c)
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![Web Development](https://img.shields.io/badge/Web%20Development-green?logo=googlechrome)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
 ![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
 ![Django](https://img.shields.io/badge/Django-green?logo=django)
 ![React](https://img.shields.io/badge/React-blue?logo=react)
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![Kafka](https://img.shields.io/badge/Kafka-black?logo=apachekafka)
+![Grafana](https://img.shields.io/badge/Grafana-orange?logo=grafana)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)
+![CI/CD](https://img.shields.io/badge/CI/CD-blue?logo=githubactions)
 
 ---
 
