@@ -54,7 +54,7 @@
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=jadeakhila&theme=tokyonight)
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+
 
 
 ### 🚀 Projects
