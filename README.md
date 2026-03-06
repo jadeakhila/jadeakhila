@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhila</h1>
-<h3 align="center">AI & ML Student | Python Developer</h3>
+<h3 align="center">AI & ML Student | Python Developer | Java Developer</h3>
 
 ---
 
@@ -13,17 +13,21 @@
 <a href="mailto:akhilaakhila910@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-</p>
----
 
+<a href="https://www.instagram.com/akhilaa_manjunath">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+</p>
+
+---
 
 ### 👩‍💻 About Me
 
 - 🎓 BTech AIML Student
 - 🧠 Learning AI, ML, Python
 - 🚀 Building FinTech Projects
-- 💻 Interested in  AIML & Data Science
-- 📫 Email: akhilaakhila910@gmail.com
+- 💻 Interested in Data Science
+- 📫 Email: yourmail@gmail.com
 
 ---
 
@@ -57,6 +61,7 @@
 
 
 
+---
 
 ### 🚀 Projects
 
@@ -64,3 +69,8 @@
 - 📚 Django Book Store
 - ☁️ Cloud File Upload App
 - 🧠 Dialysis Slot Optimization ML
+- 🎯 Object Detection System
+- 🙂 Facial Expression Recognition
+- 🌫 Air Quality Analysis
+- 🎓 Student Management System (Spring Boot + Postman API Testing)
+- 🤖 AI Resume Scanner
