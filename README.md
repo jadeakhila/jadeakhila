@@ -27,7 +27,7 @@
 - 🧠 Learning AI, ML, Python
 - 🚀 Building FinTech Projects
 - 💻 Interested in Data Science
-- 📫 Email: yourmail@gmail.com
+- 📫 Email: akhilaakhila910@gmail.com
 
 ---
 
