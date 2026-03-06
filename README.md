@@ -1,7 +1,7 @@
 <!-- Coding Banner Animation -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:9d4edd&height=200&section=header&text=Akhila%20Jade&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:9d4edd&height=200&section=header&text=JADE%20AKHILA&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Akhila</h1>
