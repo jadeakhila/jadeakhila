@@ -73,7 +73,7 @@
 ## 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=chandupriya8179&label=Profile%20views&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=jadeakhila&label=Profile%20views&color=blue&style=for-the-badge"/>
 </p>
 
 ---
